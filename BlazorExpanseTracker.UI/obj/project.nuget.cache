@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nan1qbGdprM12rM6ZToAX9dyBoLvjz43W3X1SbKkwb2oAV5aRkSArLYi2uBTts/Y/0X1ThZGmc0Gb6GuL/8Eg==",
+  "dgSpecHash": "hExqsUimh0qsT3NAAPgp7rIBCvoeJWLavomI4jR55bfENgp6CaUciKOVM9g1HQKObK1lZKJmGSh3U+eUBnz6kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Darderes\\BlazorExpanseTracker.UI\\BlazorExpanseTracker.UI.csproj",
+  "projectFilePath": "C:\\Users\\Jorge Darderes\\BlazorExpanseTracker\\BlazorExpanseTracker.UI\\BlazorExpanseTracker.UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

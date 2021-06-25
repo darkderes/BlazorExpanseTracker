@@ -25,6 +25,7 @@
     ".NETCoreApp,Version=v5.0": {
       "BlazorExpanseTracker.UI/1.0.0": {
         "dependencies": {
+          "BlazorExpanseTracker.Model": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -314,6 +315,14 @@
         },
         "compile": {
           "BlazorExpanseTracker.UI.dll": {}
+        }
+      },
+      "BlazorExpanseTracker.Model/1.0.0": {
+        "runtime": {
+          "BlazorExpanseTracker.Model.dll": {}
+        },
+        "compile": {
+          "BlazorExpanseTracker.Model.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2018,6 +2027,11 @@
   },
   "libraries": {
     "BlazorExpanseTracker.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorExpanseTracker.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
