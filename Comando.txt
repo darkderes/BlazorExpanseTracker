@@ -5,3 +5,7 @@ dotnet new webapi -o  BlazorExpanseTracker.API
 para crear un libreria de clases
 
 dotnet new classlib  -o  BlazorExpanseTracker.Model
+
+para hacer referencia de un proyecto a otro 
+
+dotnet add BlazorExpanseTracker.Data/BlazorExpanseTracker.Data.csproj reference BlazorExpanseTracker.Model/BlazorExpanseTracker.Model.csproj

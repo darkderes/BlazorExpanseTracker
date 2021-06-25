@@ -1,0 +1,12 @@
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\bin\Debug\net5.0\BlazorExpanseTracker.Model.deps.json
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\bin\Debug\net5.0\BlazorExpanseTracker.Model.dll
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\bin\Debug\net5.0\ref\BlazorExpanseTracker.Model.dll
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\bin\Debug\net5.0\BlazorExpanseTracker.Model.pdb
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\BlazorExpanseTracker.Model.csprojAssemblyReference.cache
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\BlazorExpanseTracker.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\BlazorExpanseTracker.Model.AssemblyInfoInputs.cache
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\BlazorExpanseTracker.Model.AssemblyInfo.cs
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\BlazorExpanseTracker.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\BlazorExpanseTracker.Model.dll
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\ref\BlazorExpanseTracker.Model.dll
+C:\Users\Jorge Darderes\BlazorExpanseTracker\BlazorExpanseTracker.Model\obj\Debug\net5.0\BlazorExpanseTracker.Model.pdb

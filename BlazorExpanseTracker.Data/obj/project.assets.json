@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "BlazorExpanseTracker.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BlazorExpanseTracker.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorExpanseTracker.Model.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BlazorExpanseTracker.Model/1.0.0": {
+      "type": "project",
+      "path": "../BlazorExpanseTracker.Model/BlazorExpanseTracker.Model.csproj",
+      "msbuildProject": "../BlazorExpanseTracker.Model/BlazorExpanseTracker.Model.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "BlazorExpanseTracker.Model >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Jorge Darderes\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Jorge Darderes\\BlazorExpanseTracker\\BlazorExpanseTracker.Model\\BlazorExpanseTracker.Model.csproj": {
+              "projectPath": "C:\\Users\\Jorge Darderes\\BlazorExpanseTracker\\BlazorExpanseTracker.Model\\BlazorExpanseTracker.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

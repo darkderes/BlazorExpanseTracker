@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BlazorExpanseTracker.Data/1.0.0": {
+        "dependencies": {
+          "BlazorExpanseTracker.Model": "1.0.0"
+        },
+        "runtime": {
+          "BlazorExpanseTracker.Data.dll": {}
+        }
+      },
+      "BlazorExpanseTracker.Model/1.0.0": {
+        "runtime": {
+          "BlazorExpanseTracker.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorExpanseTracker.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorExpanseTracker.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
