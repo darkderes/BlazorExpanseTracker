@@ -1,0 +1,7 @@
+Para crear una nueva web API  
+
+dotnet new webapi -o  BlazorExpanseTracker.API
+
+para crear un libreria de clases
+
+dotnet new classlib  -o  BlazorExpanseTracker.Model
